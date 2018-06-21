@@ -1,6 +1,8 @@
 # Mapas: fuentes de mapas (16 de 36)
 
-![IGN Web](./gps_files/IGN.jpg)Tal como ya hemos comentado, el **IGN** es el encargado hoy en día de proveer toda la **cartografía de escalas 1:25.000 y 1:50.000** de España.
+![IGN Web](img/IGN.jpg)
+
+Tal como ya hemos comentado, el **IGN** es el encargado hoy en día de proveer toda la **cartografía de escalas 1:25.000 y 1:50.000** de España.
 
 Esta cartografía es la base que utilizan el resto de las editoriales que se dedican a editar mapas excursionistas, enriqueciendo estas bases con información de interés excursionista y revisión toponímica.
 
@@ -15,4 +17,3 @@ Para proveerte de mapas excursionistas, preparados especialmente para una finali
 
 Te recomendamos que intentes tener siempre **un mapa actualizado** (de una versión reciente, todos los mapas llevan el año de la edición o de la reedición) y de una escala entre 1:25.000 y 1:40.000, aunque es **más recomendable la 25.000**.
 
-#### Como montañero o excursionista necesitaré...

@@ -1,6 +1,6 @@
 # Seguridad en montaña y mapa (30 de 36)
 
-![Informando con mapa](./gps_files/Informando con mapa.JPG)Sin duda, **muchos de los accidentes y rescates de los que se producen en montaña podrían evitarse si llevasemos y utilizasemos de manera habitual un mapa excursionista**.
+![Informando con mapa](img/Informando con mapa.JPG)Sin duda, **muchos de los accidentes y rescates de los que se producen en montaña podrían evitarse si llevasemos y utilizasemos de manera habitual un mapa excursionista**.
 
 Como **federados** ésta tiene que ser nuestra consigna a la hora de preparar y llevar a cabo una actividad.  
 

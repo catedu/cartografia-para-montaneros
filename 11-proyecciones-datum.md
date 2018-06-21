@@ -1,6 +1,8 @@
 # Proyecciones: DATUM (11 de 36)
 
-![Datum](./gps_files/Datum.jpg)El **[datum](http://es.wikipedia.org/wiki/Datum "Datum en wikipedia")** es un conjunto de parámetros que **definen la posición del elipsoide de referencia con respecto a la superficie real de la tierra** (el geoide).
+![Datum](img/Datum.jpg)
+
+El **[datum](http://es.wikipedia.org/wiki/Datum "Datum en wikipedia")** es un conjunto de parámetros que **definen la posición del elipsoide de referencia con respecto a la superficie real de la tierra** (el geoide).
 
 No es un único dato sino un conjunto de ellos. **Por un lado se establece el elipsoide de referencia y por otro el punto en el que dicho elipsoide es tangente al geoide**.
 
@@ -15,5 +17,3 @@ Las **coordenadas UTM** **en España** se han venido refiriendo en los últimos 
 **El Datum WGS84 se considera equivalente al ETRS89**.
 
 No vamos a entrar en más detalles sobre el Datum. Sólo lo queríamos nombrar para que sepáis que existe y que en las coordenadas que habitualmente manejamos un error de interpretación de Datum puede llevar a errores del orden de 200 m sobre el terreno.
-
-La idea que tienes sobre el datum es que...

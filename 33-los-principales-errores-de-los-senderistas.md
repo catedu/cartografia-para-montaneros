@@ -1,6 +1,6 @@
 # Los principales errores de los senderistas (33 de 36)
 
-**![Senderistas y mapa](./gps_files/Senderistas y mapa.JPG)El colectivo de senderistas, o excursionistas de baja dificultad no suelen llevar casi nunca mapa,** a pesar de que sin duda alguna desde Montaña Segura consideramos que casi siempre deberían.
+**![Senderistas y mapa](img/Senderistas y mapa.JPG)El colectivo de senderistas, o excursionistas de baja dificultad no suelen llevar casi nunca mapa,** a pesar de que sin duda alguna desde Montaña Segura consideramos que casi siempre deberían.
 
 De hecho, **un importante número de rescates de los que se producen a este colectivo se podrían fácilmente evitar** **llevado un mapa** y haciendo una correcta interpretación del mismo, estamos hablando de **extravíos y agotamientos**.
 

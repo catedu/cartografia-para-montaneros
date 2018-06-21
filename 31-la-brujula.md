@@ -1,6 +1,6 @@
 # La brújula (31 de 36)
 
-![Brújula](./gps_files/Brújula.jpg)Sin duda, el complemento imprescindible para un mapa es la [**brújula**](http://es.wikipedia.org/wiki/Br%C3%BAjula "Brújula en Wikipedia").
+![Brújula](img/Brújula.jpg)Sin duda, el complemento imprescindible para un mapa es la [**brújula**](http://es.wikipedia.org/wiki/Br%C3%BAjula "Brújula en Wikipedia").
 
 Es cierto que un determinado número de **excursionistas o montañeros sí llevan mapa**. Si nos referimos a la **brújula ese número disminuirá considerablemente**...
 

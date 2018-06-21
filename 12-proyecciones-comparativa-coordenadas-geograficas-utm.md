@@ -4,10 +4,10 @@ Un mismo punto, pongamos por caso el refugio de Góriz, en Ordesa, tiene las sig
 
 Coordenadas Geográficas, en grados, minutos y segundos:
 
-![Coordenadas Geográficas](./gps_files/Coordenadas Geográficas.jpg)
+![Coordenadas Geográficas](img/Coordenadas Geográficas.jpg)
 
 Coordenadas UTM en ETRS 89, Huso 31, en metros:
 
-![Coordenadas UTM ETRS89](./gps_files/Coordenadas UTM ETRS89.jpg)
+![Coordenadas UTM ETRS89](img/Coordenadas UTM ETRS89.jpg)
 
- Observado el orden de las cifras, no debería ser que confundierais nunca una coordenada geográfica con una proyectada, los valores no tienen mucho que ver, pero tampoco las cifras, ni las unidades...
+Observado el orden de las cifras, no debería ser que confundierais nunca una coordenada geográfica con una proyectada, los valores no tienen mucho que ver, pero tampoco las cifras, ni las unidades...

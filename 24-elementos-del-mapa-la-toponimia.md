@@ -1,6 +1,6 @@
 # Elementos del mapa: la toponimia (24 de 36)
 
-![Toponimia](./gps_files/Toponimia.jpg)La [**toponimia**](http://es.wikipedia.org/wiki/Toponimia "Toponimia en Wikipedia") es toda aquélla información que indica la **nomenclatura de los lugares**.
+![Toponimia](img/Toponimia.jpg)La [**toponimia**](http://es.wikipedia.org/wiki/Toponimia "Toponimia en Wikipedia") es toda aquélla información que indica la **nomenclatura de los lugares**.
 
 Existe **toponimia vinculada a elementos concretos**: una población, una ermita, un puente, una fuente, un refugio, un pico, etc. Pero también existe **toponimia vinculada a zonas y parajes**, sin unos límites determinados: un valle, un escarpe, una sierra, etc.
 

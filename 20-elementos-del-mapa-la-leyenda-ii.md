@@ -1,6 +1,6 @@
 # Elementos del mapa: la leyenda II (20 de 36)
 
-![Leyenda del mapa](./gps_files/Leyenda mapa.jpg)
+![Leyenda del mapa](img/Leyenda mapa.jpg)
 
 La otra parte de la leyenda hace referencia a la **Información de la georreferencia** **del mapa**y otros datos.
 
@@ -18,4 +18,3 @@ En la imagen aparece un ejemplo tipo, en él podemos ver datos del tipo:
 
 \- **Otros datos de la publicación**, editorial, año de actualización, etc.
 
-#### Por lo tanto, la leyenda de un mapa suele contener...

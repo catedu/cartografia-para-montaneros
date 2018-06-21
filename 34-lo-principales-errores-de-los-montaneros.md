@@ -1,6 +1,6 @@
 # Los principales errores de los montañeros (34 de 36)
 
-![Montañero y mapa](./gps_files/Montañero y mapa.JPG)Si bien es cierto que **los "montañeros" suelen llevar casi todos mapa** (aunque no todos brújula) y suelen ser hábiles en su manejo y están acostumbrados a verlos, saber leerlo e interpretarlo correctamente, a veces también cometen errores, como todos.
+![Montañero y mapa](img/Montañero y mapa.JPG)Si bien es cierto que **los "montañeros" suelen llevar casi todos mapa** (aunque no todos brújula) y suelen ser hábiles en su manejo y están acostumbrados a verlos, saber leerlo e interpretarlo correctamente, a veces también cometen errores, como todos.
 
 Uno de los **errores fundamentales es el exceso de confianza: no consultar de manera suficientemente concienzuda el mapa**, **no fijarse en si el mapa está correctamente orientado** (orientándolo de manera aproximada y sin comprobar), etc.
 

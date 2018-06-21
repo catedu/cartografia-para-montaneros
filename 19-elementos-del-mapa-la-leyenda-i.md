@@ -1,6 +1,8 @@
 # Elementos del mapa: la leyenda I (19 de 36)
 
-![Leyenda del mapa](./gps_files/Leyenda del mapa2.jpg)Todos los mapas llevan, o por lo menos deben llevar, **una leyenda**.
+![Leyenda del mapa](img/Leyenda del mapa2.jpg)
+
+Todos los mapas llevan, o por lo menos deben llevar, **una leyenda**.
 
 La leyenda, que permite interpretar bien el mapa, está compuesta por dos tipos de información principal:  
 

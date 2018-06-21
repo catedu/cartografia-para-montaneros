@@ -1,4 +1,6 @@
-# ![Elipsoide](./gps_files/Geoide.png)La tierra: elipsoide de referencia (5 de 36)
+# La tierra: elipsoide de referencia (5 de 36)
+
+![Elipsoide](img/Geoide.png)
 
 La tierra de todas maneras no es regular como una forma geométrica, por lo que no resulta tan sencillo aplicarle fórmulas matemáticas para conocer las coordenadas de un punto.  
 
@@ -6,4 +8,3 @@ En general **se ha preferido utilizar un elipsoide de referencia** para trabajar
 
 No hay que olvidar que se está siempre trabajando con formas ideales que permitan cálculos sencillos, pero la tierra es algo mucho más complejo. Sólo hay que pensar que además de la forma de la tierra está el relieve, **las montañas sobre los continentes,** algo que todavía hace que la realidad se aleje más de la teoría.  
 
-#### El elipsoide de referencia utilizado en la cartografía de nuestro país es...

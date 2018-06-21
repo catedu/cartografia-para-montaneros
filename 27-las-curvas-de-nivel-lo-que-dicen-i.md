@@ -1,6 +1,6 @@
 # Las curvas de nivel: lo que dicen I (27 de 36)
 
-![Curvas de nivel: valles y crestas](./gps_files/Curvas de nivel valle y cresta.jpg)Las [**curvas de nivel**](http://es.wikipedia.org/wiki/Curva_de_nivel "Curvas de nivel en Wikipedia"), esa parte del mapa que constituye la altimetría, que nos habla de la tercera dimensión del terreno, nos dicen muchas cosas, pero **hay que saber leerlas correctamente**.
+![Curvas de nivel: valles y crestas](img/Curvas de nivel valle y cresta.jpg)Las [**curvas de nivel**](http://es.wikipedia.org/wiki/Curva_de_nivel "Curvas de nivel en Wikipedia"), esa parte del mapa que constituye la altimetría, que nos habla de la tercera dimensión del terreno, nos dicen muchas cosas, pero **hay que saber leerlas correctamente**.
 
 Para conocer datos de nuestra excursión será necesario dedicar un rato al mapa y saber interpretar lo que éste dice, sobre todo en lo que hace referencia a las altitudes.
 

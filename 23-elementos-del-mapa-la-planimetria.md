@@ -1,6 +1,6 @@
 # Elementos del mapa: la planimetría (23 de 36)
 
-![Planimetría](./gps_files/Planimetria.jpg)La **planimetría** representa **elementos lineales y superficiales** de los que existen en el mundo real, como pueden ser:
+![Planimetría](img/Planimetria.jpg)La **planimetría** representa **elementos lineales y superficiales** de los que existen en el mundo real, como pueden ser:
 
 - **vías de comunicación**: carreteras, pistas, caminos, itinerarios de montaña...
 

@@ -1,6 +1,6 @@
 # Elementos del mapa: la altimetría, curvas de nivel (22 de 36)
 
-![Altimetría](./gps_files/Altimetria.jpg)Si por fin miramos el mapa, esa hoja grande de papel impresa, veremos toda esa información que intenta reflejar una superficie de varios kilómetros cuadrados sobre un mapa de apenas un metro cuadrado.
+![Altimetría](img/Altimetria.jpg)Si por fin miramos el mapa, esa hoja grande de papel impresa, veremos toda esa información que intenta reflejar una superficie de varios kilómetros cuadrados sobre un mapa de apenas un metro cuadrado.
 
 El mapa contiene información de cinco tipos:
 

@@ -1,6 +1,6 @@
 # El GPS (32 de 36)
 
-![GPS senderista](./gps_files/GPS senderista.jpg)Un [**GPS**](http://es.wikipedia.org/wiki/Sistema_de_posicionamiento_global "GPS en Wikipedia") es un aparato que permite obtener las coordenadas de la geoposición del lugar donde se está en unos minutos y con una precisión de pocos metros.
+![GPS senderista](img/GPS senderista.jpg)Un [**GPS**](http://es.wikipedia.org/wiki/Sistema_de_posicionamiento_global "GPS en Wikipedia") es un aparato que permite obtener las coordenadas de la geoposición del lugar donde se está en unos minutos y con una precisión de pocos metros.
 
 Existen GPS de tipo senderista, que por su precio (entorno 150-500 euros) no están muy extendidos, pero también existen los GPS de los [**Smartphones**](http://es.wikipedia.org/wiki/Tel%C3%A9fono_inteligente "Smartphone en Wikipedia"), sensores que junto a aplicaciones determinadas nos permiten hacer trabajar un teléfono móvil como si fuera un GPS senderista.
 

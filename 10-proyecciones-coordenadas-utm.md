@@ -4,7 +4,7 @@ Las **coordenadas UTM** llevan una numeración que está **en relación a un ima
 
 Como este sistema de ejes cartesianos se repite en cada Huso, **es muy importante que cada coordenada UTM esté en relación a su Huso**, pues de otra manera es una coordenada que se repite 60 veces sobre la superficie de la tierra.
 
-![Coordenadas UTM](./gps_files/Coordenadas UTM.jpg)
+![Coordenadas UTM](img/Coordenadas UTM.jpg)
 
 En la imagen podéis ver cómo se estructuran estas coordenadas.
 
@@ -20,4 +20,3 @@ Como puedes ver, **este tipo de coordenadas nada tienen que ver con las geográf
 
 Los mapas excursionistas de España, que provienen todos de las bases digitales topográficas del Instituto Geográfico Nacional, están basados en este tipo de coordenadas proyectadas UTM, y en los márgenes de los mapas aparecen este tipo de valores.
 
-#### A la hora de entender las coordenadas UTM debéis tener en cuenta que...

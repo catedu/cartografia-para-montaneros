@@ -1,6 +1,6 @@
 # La Tierra: paralelos y meridianos, latitud y longitud (3 de 36)
 
-# ![Paralelos y meridianos](./gps_files/Paralelos y meridianos.gif)
+![Paralelos y meridianos](img/Paralelos y meridianos.gif)
 
 La tierra puede ser cortada por **cualquier plano que sea paralelo al plano ecuatorial.** La intersección de estos planos paralelos con la superficie terrestre recibe el nombre de **paralelos**.
 
@@ -19,5 +19,3 @@ Aunque a lo largo de la historia se han tomado varios meridianos como referencia
 Los meridianos se nombran mediante el ángulo que forman con el meridiano cero o de Greenwich. A este ángulo se le llama longitud. Si el meridiano está a la derecha de Greenwich se establece una longitud Este (E), y si está a la izquierda una longitud Oeste (W), hasta un valor máximo, en ambos casos, de 180º (180º al este es igual que 180º al oeste, y es el meridiano que forma elipse con el de Greenwich).  
 
 **Todo punto tiene una longitud, que es el ángulo, E o W, que hace el meridiano que pasa por ese punto con el meridiano cero o de Greenwich, en valores que van de 0 a 180.**
-
-#### Así, los valores de latitud y longitud tienen valores del tipo...

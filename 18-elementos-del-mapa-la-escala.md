@@ -1,6 +1,8 @@
 # Elementos del mapa: la escala (18 de 36)
 
-![Escala del mapa](./gps_files/Escala del mapa.jpg)La [**escala de un mapa**](http://es.wikipedia.org/wiki/Escala_(cartograf%C3%ADa) "Escala del mapa") es la **relación que existe entre las dimensiones del mapa y las dimensiones reales** del elemento que representa.
+![Escala del mapa](img/Escala del mapa.jpg)
+
+La [**escala de un mapa**](http://es.wikipedia.org/wiki/Escala_(cartograf%C3%ADa) "Escala del mapa") es la **relación que existe entre las dimensiones del mapa y las dimensiones reales** del elemento que representa.
 
 Ya hemos hablado antes de la escala, diciendo que la 1:25.000 era mejor que la 1:50.000 porque ofrecía más detalle, etc., ¿pero sabemos realmente lo que significa?
 
@@ -10,4 +12,3 @@ Es sencillo, ¿no? Normalmente en alguna esquina del mapa suele aparecer la esca
 
 Es muy importante tener clara la escala del mapa, puesto que ello nos da idea de la distancia real que hay hasta un lugar, o la longitud del camino.
 
-#### Marca las afirmaciones que sean verdaderas... (Varias opciones son posibles)

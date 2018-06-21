@@ -1,6 +1,6 @@
 # Informar para educar en cartografía (35 de 36)
 
-![Informando con mapa](./gps_files/Informando con mapa(1).jpg)A modo de resumen, **no queremos dejar de insistir en la importancia de llevar un mapa en montaña y el valor que tiene que vosotros, como federados, actuéis con esta mentalidad cuando estáis planificando y llevando a cabo una actividad.  
+![Informando con mapa](img/Informando con mapa(1).jpg)A modo de resumen, **no queremos dejar de insistir en la importancia de llevar un mapa en montaña y el valor que tiene que vosotros, como federados, actuéis con esta mentalidad cuando estáis planificando y llevando a cabo una actividad.  
 **
 
 El hecho de que una persona determinada no sepa leer un mapa no debe ser motivo para no empezar en ese mismo momento a aprender. Además, la lectura de mapas puede ser un juego divertido y apasionante, bastará con inculcar ese gusanillo y a partir de allí confiar en que la propia curiosidad vaya consiguiendo lo demás.
