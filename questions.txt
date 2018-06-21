@@ -1,0 +1,1321 @@
+
+Respuesta 1: 
+
+Un elipsoide o geoide, con un eje más corto que el otro, en concreto el polar es 21 km más corto que el ecuatorial
+
+Comentario 1
+CORRECTO: ¡así es!
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Un elipsoide, pero no un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más corto que el ecuatorial
+
+Comentario 2
+INCORRECTO: es un elipsoide, y también un geoide
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+Un elipsoide o un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más largo que el ecuatorial
+
+Comentario 3
+INCORRECTO: el eje polar es 21 km más corto que el ecuatorial, no al revés
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+Un elipsoide, pero no un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más largo que el ecuatorial
+
+Comentario 4
+INCORRECTO: es un elipsoide y también un geoide, y el eje polar es 21 km más corto que el ecuatorial, no al revés
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Un anillo que rodea el planeta por su parte más ancha
+
+Comentario 1
+CORRECTO
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Un eje que atraviesa el planeta uniendo el polo norte y el polo sur
+
+Comentario 2
+INCORRECTO: es un anillo que rodea el planeta por su parte más ancha
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+La latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+
+Comentario 2
+Incorrecto: La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+La latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al meridiano de Greenwich en el primer caso y al ecuador en el segundo
+
+Comentario 3
+Incorrecto: los grados son correctos, pero los planos no,  estos valores son en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste, en relación al meridiano de Greenwich en el primer caso y al ecuador en el segundo
+
+Comentario 4
+Incorrecto: tanto los grados como los planos son incorrectos, pero los planos no,  la latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Un único par de coordenadas, valores de latitud y longitud acompañados de su correspondiente letra
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Un único par de coordenadas, valores de latitud y longitud numéricos, la letra puede acompañar pero no es imprescindible para ubicar el punto correctamente
+
+Comentario 2
+Incorrecto: las letras, N y S para la latitud y E y W (u O) para la longitud son necesarias para saber de qué punto se trata
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+El GRS 80
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El de Clarck
+
+Comentario 2
+Incorrecto: Es el GRS 80
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+El WGS 84
+
+Comentario 3
+Incorrecto: Es el GRS 80
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+El de Hayford o Internacional
+
+Comentario 4
+Incorrecto: Es el GRS 80
+
+Puntuación
+0
+
+Saltar
+Esta página
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna respuesta no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+La proyección cónica...
+
+Concuerda con la respuesta 1: 
+...pone el papel en forma de cono sobre la tierra, y es tangente a la misma en un anillo
+
+Respuesta 2: 
+
+La proyección cilíndrica...
+
+Concuerda con la respuesta 2: 
+...pone el papel en forma de cilindro alrededor de la tierra, y es tangente a la misma en un anillo
+
+Respuesta 3: 
+
+La proyección plana...
+
+Concuerda con la respuesta 3: 
+...pone el papel plano sobre un punto de la tierra. El papel es tangente a la tierra en un solo punto
+
+Respuesta 1: 
+
+La proyección cilíndrica transversa
+
+Comentario 1
+Correcto: así es, esta proyección tiene el eje del cilindro perpendicular al eje polar y la superficie del cilindro es tangente a un meridiano
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+La proyección cilíndrica normal
+
+Comentario 2
+Incorrecto: esta proyección es tangente al ecuador, no a un meridiano, la correcta es la proyección cilíndrica transversa
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+La proyección UTM es una proyección cilíndrica
+
+Comentario 1
+Correcto: así es
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+La proyección UTM es una proyección transversa
+
+Comentario 2
+Correcto: el eje del cilindro es perpendicular al eje polar
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+La proyección UTM es una proyección conforme
+
+Comentario 3
+Correcto: esta proyección mantiene el valor de los ángulos entre la realidad y la proyección, no así las superficies
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+La proyección UTM es una proyección plana
+
+Comentario 4
+Incorrecto: es una proyección cilíndrica
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+En la proyección UTM, la tierra se divide en 60 Husos, de 6 grados cada uno
+
+Comentario 1
+Correcto: así es
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Los Husos son una manera de mejorar la proyección cónica, que de otra manera se distorsiona mucho
+
+Comentario 2
+Incorrecto: Los Husos vienen a optimizar la proyección UTM, que es cilíndrica
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+La división en Husos se hace para optimizar el resultado de la proyección en cada uno de ellos y evitar distorsiones
+
+Comentario 3
+Correcto: así es
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+Aragón está entre los Husos 1 y 2, siendo que el meridiano 0, el de Greenwich, pasa por aquí
+
+Comentario 4
+Incorrecto: Aragón está entre los Husos 30 y 31, pues los Husos se empiezan a contar en el antemeridiano de Greenwich, en el "otro lado" de la tierra.
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+Por encima de 84º N y por debajo de 80ºS...
+
+Concuerda con la respuesta 1: 
+...no se utiliza la proyección UTM pues se distorsiona mucho la realidad
+
+Respuesta 2: 
+
+Las coordenadas UTM son siempre...
+
+Concuerda con la respuesta 2: 
+...valores positivos
+
+Respuesta 3: 
+
+Un mismo par de coordenadas UTM, si no van vinculadas a un Huso...
+
+Concuerda con la respuesta 3: 
+...se repiten 60 veces sobre la superficie terrestre, una vez por cada Huso
+
+Respuesta 4: 
+
+Las coordenadas UTM se expresan en metros...
+
+Concuerda con la respuesta 4: 
+...mientras que las coordenadas geográficas se expresan en grados
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+El Datum define...
+
+Concuerda con la respuesta 1: 
+...el elipsoide de referencia y su posición con respecto al geoide
+
+Respuesta 2: 
+
+El Datum sirve para...
+
+Concuerda con la respuesta 2: 
+...lograr un mejor ajuste entre el elipsoide y el geoide en una zona determinada
+
+Respuesta 3: 
+
+Los Datums más habituales en nuestra cartografía son...
+
+Concuerda con la respuesta 3: 
+...el WGS84, el ED50 y el ETRS89
+
+Respuesta 4: 
+
+La diferencia, en metros entre el ED50 y el ETRS89 es de...
+
+Concuerda con la respuesta 4: 
+...aproximadamente 200 m
+
+Contenido 1: 
+Continuar
+
+Saltar 1: 
+Página siguiente
+
+Respuesta 1: 
+
+Entre coordenadas geográficas y proyectadas UTM sólo cambian 200 m
+
+Comentario 1
+Incorrecto: cambia todo, el tipo de valor, las unidades, etc.
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Entre Datum ETRS89 y ED50 no cambia nada, son equivalentes
+
+Comentario 2
+Incorrecto: hay una distancia de 200 m
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+Entre las coordenadas de un mismo punto en distintos Datums las unidades son las mismas: metros
+
+Comentario 3
+Correcto: así es, las coordenadas UTM siempre vienen en metros
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+Entre las coordenadas de un mismo punto en el Datum ED50 y el ETRS89 los valores se van en 200 m
+
+Comentario 4
+Correcto: y eso hay que tenerlo en cuenta si buscamos sobre el terreno algo concreto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Información del relieve, algo fundamental para los excursionistas
+
+Comentario 1
+Correcto: y por ello son la base de la cartografía excursionista
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Información de carreteras y grandes ciudades, no llegando al detalle
+
+Comentario 2
+Incorrecto: muestran información del relieve, algo fundamental para los excursionistas
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Un buen mapa excursionista, que proviene normalmente de los mapas topográficos escala 1:25.000 o 1:50.000
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Un buen mapa excursionista, que proviene normalmente de los mapas topográficos escala 1:250.000 o 1:500.000
+
+Comentario 2
+Incorrecto: estas escalas no ofrecen detalle excursionista, son las 1:25.000 y 1:50.000 las que pueden ser de utilidad
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Lo mejor es un mapa excursionista 1:25.000, que utiliza la base topográfica del IGN a esa misma escala y la complementa con información excursionista de los caminos, los picos y otros elementos que interesan a los que caminan
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Lo mejor es un mapa topográfico 1:25.000, que utiliza la base excursionista del IGN a esa misma escala y la complementa con información topográfica
+
+Comentario 2
+Incorrecto: el IGN ofrece la base topográfica y los mapas excursionistas la completan y mejoran, no al revés
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Hacer coherente y comprensible la información geográfica de los distintos países de la Unión Europea marcando unas normas que todos ellos deben cumplir
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Elaborar unas fórmulas de traducción que permitan pasar de un tipo de coordenadas a otras para conseguir que mediante esas fórmulas la información geográfica entre distintos países se pueda compartir
+
+Comentario 2
+Incorrecto: es hacer coherente y comprensible la información geográfica de los distintos países de la Unión Europea marcando unas normas que todos ellos deben cumplir
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+Un mapa sin escala no permite saber la distancia real que hay entre dos puntos
+
+Comentario 1
+Correcto: la escala nos da información sobre la relación que existe entre el mapa y la realidad, si no hay escala no podemos saber la realidad
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Una escala 1:50.000 ofrece más detalle excursionista que una escala 1:25.000
+
+Comentario 2
+Incorrecto: es justo ¡al revés! la escala 1:25.000 ofrece más detalle en general, pues cada cm del mapa representa 250 m de la realidad, mientras que en la 1:50.000 cada cm del mapa representa 500 m de la realidad
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+Una escala 1:25.000 ofrece más detalle excursionista que una escala 1:50.000
+
+Comentario 3
+Correcto: la escala 1:25.000 ofrece más detalle en general, pues cada cm del mapa representa 250 m de la realidad, mientras que en la 1:50.000 cada cm del mapa representa 500 m de la realidad
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+La escala numérica y la escala gráfica son dos escalas diferentes del mapa, indican distinta relación territorio-mapa
+
+Comentario 4
+Incorrecto: La escala numérica y la escala gráfica son dos maneras diferentes de representar lo mismo: la relación de medida entre el territorio y el mapa
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Contenido 1: 
+Continuar
+
+Saltar 1: 
+Página siguiente
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna de las parejas no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+Iconos sobre...
+
+Concuerda con la respuesta 1: 
+...elementos puntuales del mapa tipo fuentes, refugios, etc.
+
+Respuesta 2: 
+
+Líneas simbolizando...
+
+Concuerda con la respuesta 2: 
+...elementos lineales: caminos, ríos, carreteras, fronteras...
+
+Respuesta 3: 
+
+Información sobre las coordenadas del mapa...
+
+Concuerda con la respuesta 3: 
+...como es su sistema de proyección, Datum y Huso si procede
+
+Respuesta 4: 
+
+Escala en dos formatos...
+
+Concuerda con la respuesta 4: 
+...gráfica y numérica
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+Si vienen expresadas en grados...
+
+Concuerda con la respuesta 1: 
+...se trata de coordenadas geográficas
+
+Respuesta 2: 
+
+Si vienen expresadas en metros...
+
+Concuerda con la respuesta 2: 
+...se trata de coordenadas proyectadas, UTM
+
+Respuesta 3: 
+
+El Datum no puede saberse en el borde del mapa...
+
+Concuerda con la respuesta 3: 
+...hay que buscarlo en la leyenda
+
+Respuesta 4: 
+
+La cuadrícula suele indicar cuadrados de...
+
+Concuerda con la respuesta 4: 
+...1 kilómetro de distancia por cada lado
+
+Respuesta 1: 
+
+La altitud del terreno: tercera dimensión del mundo real sobre el mapa papel de dos dimensiones
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Elementos que se encuentran sobre el terreno de manera real
+
+Comentario 2
+Incorrecto: las curvas de nivel nunca las encontraremos en el mundo real, es una manera simplificada de representar la tercera dimensión del terreno, la altitud
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+La planimetría representa elementos lineales o superficiales, algunos de ellos visibles sobre el terreno y otros no...
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+La planimetría representa elementos lineales o superficiales, todos ellos visibles sobre el terreno...
+
+Comentario 2
+Incorrecto: en planimetría se incluyen líneas que difícilmente vamos a ver sobre el terreno: límites municipales, estatales, etc.
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+La planimetría representa elementos lineales, nunca superficiales
+
+Comentario 3
+Incorrecto: se pueden dar elementos lineales pero también de tipo superficial (un pueblo, una casa, un embalse...)
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+El nombre de los lugares, intentando consensuar este nombre entre los distintos habitantes del lugar
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El nombre de los lugares, siendo el IGN el único organismo que sabe cuál es el nombre correcto
+
+Comentario 2
+Incorrecto: la toponimia, el nombre de los lugares, no es una ciencia exacta, a veces un mismo lugar es llamado de distinta manera por distintos habitantes de la zona
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Esta página
+
+Respuesta 1: 
+
+Muchos puntos y servicios...
+
+Concuerda con la respuesta 1: 
+...de especial interés para los excursionistas
+
+Respuesta 2: 
+
+Refugios de montaña indicando...
+
+Concuerda con la respuesta 2: 
+...si están o no guardados
+
+Respuesta 3: 
+
+Las fuentes, puentes en caminos, cadenas en pistas...
+
+Concuerda con la respuesta 3: 
+...pues su rápida visualización ayuda a planificar correctamente el recorrido
+
+Respuesta 1: 
+
+Puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Representa invariablemente la altimetría, es un acuerdo mundial sobre cómo se dibuja el fondo del mapa
+
+Comentario 2
+Incorrecto: puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+La localización de valles y divisorias
+
+Comentario 1
+Correcto: las zonas donde las curvas hacen una U o una V son los valles o las divisorias
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+En una flecha que une alturas en descenso,  la flecha del valle marca una V contraria a la V de las curvas de nivel y la flecha de la cresta marca una V paralela a la V de las curvas de nivel
+
+Comentario 2
+Correcto: así es
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+En una flecha que une alturas en descenso,  la flecha del valle marca una V paralela a la V de las curvas de nivel y la flecha de la cresta marca una V contraria a la V de las curvas de nivel
+
+Comentario 3
+Incorrecto: es justo al revés
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+La localización de zonas protegidas y desprotegidas de bosque
+
+Comentario 4
+Incorrecto: esta información nunca vendrá de las curvas de nivel
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+Cuando están muy juntas...
+
+Concuerda con la respuesta 1: 
+...la pendiente es muy fuerte
+
+Respuesta 2: 
+
+Cuando están muy separadas...
+
+Concuerda con la respuesta 2: 
+...la pendiente es muy suave
+
+Respuesta 3: 
+
+Si el camino corta las curvas de manera perpendicular y éstas están muy juntas...
+
+Concuerda con la respuesta 3: 
+...será un camino duro de ascender, pues toma la máxima pendiente
+
+Respuesta 4: 
+
+Si el camino corta las curvas de manera oblicua y éstas están muy juntas...
+
+Concuerda con la respuesta 4: 
+...será un camino zigzagueante que intenta suavizar la pendiente del camino a pesar de la fuerte pendiente del terreno
+
+Respuesta 1: 
+
+El mapa es una herramienta imprescindible que permite conocer el medio, pero puede tener sus errores o discrepancias con el mundo real
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El mapa es una herramienta prescindible  que permite conocer el medio, pero como se puede equivocar tampoco es tan necesario llevarlo ni saberlo leer
+
+Comentario 2
+Incorrecto: siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+El mapa es una herramienta imprescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+
+Comentario 3
+Incorrecto: a veces el mapa puede tener errores, el mundo real es lo único "real"
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+El mapa es una herramienta prescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+
+Comentario 4
+Incorrecto: siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+El mapa es necesario, puede evitar rescates e incidentes y conviene llevarlo y saber leerlo, para la cual hace falta cierta dedicación y aprendizaje, pero en algún momento habrá que empezar
+
+Comentario 1
+Correcto: estas consideraciones son el fundamento de la prevención de accidentes
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El mapa es una buena herramienta, pero si no se sabe leer no sirve para nada, así que el colectivo de personas con poca experiencia no vale la pena mirar un mapa para diseñar actividades porque no lo van a entender. 
+
+Comentario 2
+Incorrecto: evidentemente, si no se sabe leer un mapa se le puede sacar menos partido, pero la única manera de aprender a leer un mapa es poniéndose delante de uno, así que cuanto antes se empiece antes se aprenderá.
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+La brújula es un complemento imprescindible del mapa si queremos orientarlo con garantías
+
+Comentario 1
+Correcto: así es!
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+La brújula sólo hay que llevarla si se quiere, pero sino no es  imprescindible, el mapa se orienta también con garantías por otros métodos
+
+Comentario 2
+Incorrecto: la brújula es el único método que siempre te permitirá orientar el mapa, aun cuando haya niebla, sea de noche, o no reconozcas nada en el paisaje que asocies al mapa
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+El norte del mapa y la brújula no coinciden, por lo que no vale la pena intentar hacer coincidir uno con el otro
+
+Comentario 3
+Incorrecto: aunque es cierto que hay cierta diferencia entre uno y otro (declinación magnética) la orientación del mapa se puede hacer igualmente, teniendo en cuenta que esa diferencia no es mucho mayor que la que impone el propio "error humano" a la hora de ajustar el mapa
+
+Puntuación
+0
+
+Saltar
+Esta página
+
+Respuesta 4: 
+
+El borde lateral del mapa es la línea este-oeste del mapa
+
+Comentario 4
+Incorrecto: ese borde es la línea norte-sur del mapa
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Comentario (correcto)
+Correcto
+
+Puntuación de respuesta correcta: 
+1
+
+Salto a respuesta correcta: 
+Página siguiente
+
+Comentario (erróneo)
+Incorrecto: alguna pareja no la has acertado
+
+Puntuación de respuesta errónea: 
+0
+
+Salto a respuesta errónea: 
+Página siguiente
+
+Respuesta 1: 
+
+El GPS permite conocer...
+
+Concuerda con la respuesta 1: 
+...la geoposición del usuario a través de los satélites
+
+Respuesta 2: 
+
+El GPS puede ser de tipo senderista o...
+
+Concuerda con la respuesta 2: 
+...una herramienta más de un smartphones
+
+Respuesta 3: 
+
+El GPS no debe substituir al mapa y a la brújula...
+
+Concuerda con la respuesta 3: 
+...aunque sí los complementa, siendo una herramienta más de seguridad
+
+Respuesta 4: 
+
+El GPS puede fallar por varias razones:
+
+Concuerda con la respuesta 4: 
+...la batería que se termina, la pantalla que se rompe, los satélites que se vuelven locos...
+
+Respuesta 1: 
+
+El mapa siempre debe estar en tu mochila y de manera habitual deben sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+
+Comentario 1
+Correcto
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El mapa no sirve de nada si no se sabe leer, por lo tanto si tienes poca experiencia es mejor no llevar mapa no vayas a utilizarlo mal
+
+Comentario 2
+Incorrecto: El mapa siempre debe estar en tu mochila y de manera habitual debes sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+
+Comentario 1
+Correcto: así es
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+Que si sois expertos no necesitáis ya llevar mapa y brújula, puesto que la experiencia suple lo que aportan estas herramientas
+
+Comentario 2
+Incorrecto: A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 1: 
+
+El mapa siempre debe estar en la mochila, junto con la brújula, para ser consultados cada vez que haga falta
+
+Comentario 1
+Correcto: ¡este es nuestro principal consejo!
+
+Puntuación
+1
+
+Saltar
+Página siguiente
+
+Respuesta 2: 
+
+El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
+
+Comentario 2
+Incorrecto: el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca substituyéndolos
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 3: 
+
+La lectura de mapas, sobretodo en el tema de las coordenadas, Datums y proyecciones no es sencilla, pero sólo si queremos comparar el GPS con el mapa eso tendrá su importancia, en caso contrario es menos importante
+
+Comentario 3
+Correcto
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Respuesta 4: 
+
+Como federadis debemos intentar diseñar nuestras actividades siempre sobre un mapa, de este modo el caminante que no está acostumbrando se va familiarizando con ellos y empieza a aprender
+
+Comentario 4
+Correcto
+
+Puntuación
+0
+
+Saltar
+Página siguiente
+
+Contenido 1: 
+FIn de la lección
+
+Saltar 1: 
+Fin de la lección
