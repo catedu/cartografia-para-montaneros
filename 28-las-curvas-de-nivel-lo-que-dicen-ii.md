@@ -1,6 +1,8 @@
 # Las curvas de nivel: lo que dicen II (28 de 36)
 
-![Curvas de nivel: pendientes](img/Curvas nivel pendientes.jpg)De la **lectura correcta de las curvas de nivel** también se puede obtener otra información importante: **la pendiente del terreno**.
+![Curvas de nivel: pendientes](img/Curvas nivel pendientes.jpg)
+
+De la **lectura correcta de las curvas de nivel** también se puede obtener otra información importante: **la pendiente del terreno**.
 
 \- **Curvas de nivel muy juntas indican fuertes pendientes** (puesto que en muy poca distancia horizontal -centímetros de mapa- se suben o bajan muchos metros en vertical -se atraviesan muchas curvas de nivel-)
 
@@ -17,4 +19,3 @@ Tan importante como comprender correctamente la pendiente del terreno en el reco
 
 De esta manera comprendemos no solo el relieve, sino qué hará nuestro itinerario para superarlo.
 
-#### De las curvas de nivel se puede extraer la siguiente información.

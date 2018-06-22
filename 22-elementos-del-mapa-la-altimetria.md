@@ -1,6 +1,8 @@
 # Elementos del mapa: la altimetría, curvas de nivel (22 de 36)
 
-![Altimetría](img/Altimetria.jpg)Si por fin miramos el mapa, esa hoja grande de papel impresa, veremos toda esa información que intenta reflejar una superficie de varios kilómetros cuadrados sobre un mapa de apenas un metro cuadrado.
+![Altimetría](img/Altimetria.jpg)
+
+Si por fin miramos el mapa, esa hoja grande de papel impresa, veremos toda esa información que intenta reflejar una superficie de varios kilómetros cuadrados sobre un mapa de apenas un metro cuadrado.
 
 El mapa contiene información de cinco tipos:
 
@@ -21,4 +23,3 @@ De **tipo altimétrico**, el mapa contiene los siguientes elementos:
 
 Por lo tanto, es fundamental ser consciente de qué indica una curva de nivel: **qué equidistancia representa**, para podernos hacer una idea acertada de los metros de desnivel que afronta una excursión determinada. Cada vez que un camino cruza una curva de nivel significa que gana -o pierde- altura. 
 
-#### Las curvas de nivel dibujan...

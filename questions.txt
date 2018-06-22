@@ -147,89 +147,106 @@
 =La cuadrícula suele indicar cuadrados de... -> ...1 kilómetro de distancia por cada lado
 }
 
-La altitud del terreno: tercera dimensión del mundo real sobre el mapa papel de dos dimensiones
-Elementos que se encuentran sobre el terreno de manera real
-las curvas de nivel nunca las encontraremos en el mundo real, es una manera simplificada de representar la tercera dimensión del terreno, la altitud
-La planimetría representa elementos lineales o superficiales, algunos de ellos visibles sobre el terreno y otros no...
-La planimetría representa elementos lineales o superficiales, todos ellos visibles sobre el terreno...
-en planimetría se incluyen líneas que difícilmente vamos a ver sobre el terreno: límites municipales, estatales, etc.
-La planimetría representa elementos lineales, nunca superficiales
-se pueden dar elementos lineales pero también de tipo superficial (un pueblo, una casa, un embalse...)
-El nombre de los lugares, intentando consensuar este nombre entre los distintos habitantes del lugar
-El nombre de los lugares, siendo el IGN el único organismo que sabe cuál es el nombre correcto
-la toponimia, el nombre de los lugares, no es una ciencia exacta, a veces un mismo lugar es llamado de distinta manera por distintos habitantes de la zona
+::Altimetría:: Las curvas de nivel dibujan... {
+=La altitud del terreno: tercera dimensión del mundo real sobre el mapa papel de dos dimensiones
+~Elementos que se encuentran sobre el terreno de manera real
+#las curvas de nivel nunca las encontraremos en el mundo real, es una manera simplificada de representar la tercera dimensión del terreno, la altitud
+}
 
+::La planimetría:: Elige la opción más acertada {
+=La planimetría representa elementos lineales o superficiales, algunos de ellos visibles sobre el terreno y otros no...
+~La planimetría representa elementos lineales o superficiales, todos ellos visibles sobre el terreno...
+#en planimetría se incluyen líneas que difícilmente vamos a ver sobre el terreno: límites municipales, estatales, etc.
+~La planimetría representa elementos lineales, nunca superficiales
+#se pueden dar elementos lineales pero también de tipo superficial (un pueblo, una casa, un embalse...)
+}
 
+::La toponimia:: La toponimia da información sobre... {
+=El nombre de los lugares, intentando consensuar este nombre entre los distintos habitantes del lugar
+~El nombre de los lugares, siendo el IGN el único organismo que sabe cuál es el nombre correcto
+#la toponimia, el nombre de los lugares, no es una ciencia exacta, a veces un mismo lugar es llamado de distinta manera por distintos habitantes de la zona
+}
 
+::Los iconos en el mapa:: Así, mediante iconos se suelen representar... {
+=Muchos puntos y servicios... -> ...de especial interés para los excursionistas
+=Refugios de montaña indicando... -> ...si están o no guardados
+=Las fuentes, puentes en caminos, cadenas en pistas... -> ...pues su rápida visualización ayuda a planificar correctamente el recorrido
+}
 
-Muchos puntos y servicios...
-...de especial interés para los excursionistas
-Refugios de montaña indicando...
-...si están o no guardados
-Las fuentes, puentes en caminos, cadenas en pistas...
-...pues su rápida visualización ayuda a planificar correctamente el recorrido
-Puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
-Representa invariablemente la altimetría, es un acuerdo mundial sobre cómo se dibuja el fondo del mapa
-puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
-La localización de valles y divisorias
-las zonas donde las curvas hacen una U o una V son los valles o las divisorias
-En una flecha que une alturas en descenso,  la flecha del valle marca una V contraria a la V de las curvas de nivel y la flecha de la cresta marca una V paralela a la V de las curvas de nivel
-En una flecha que une alturas en descenso,  la flecha del valle marca una V paralela a la V de las curvas de nivel y la flecha de la cresta marca una V contraria a la V de las curvas de nivel
-es justo al revés
-La localización de zonas protegidas y desprotegidas de bosque
-esta información nunca vendrá de las curvas de nivel
+::El fondo del mapa:: El fondo del mapa... {
+=Puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+~Representa invariablemente la altimetría, es un acuerdo mundial sobre cómo se dibuja el fondo del mapa
+#puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+}
 
+::Las curvas de nivel:: De la lectura de las curvas de nivel se puede extraer... {
+=La localización de valles y divisorias
+#las zonas donde las curvas hacen una U o una V son los valles o las divisorias
+=En una flecha que une alturas en descenso,  la flecha del valle marca una V contraria a la V de las curvas de nivel y la flecha de la cresta marca una V paralela a la V de las curvas de nivel
+~En una flecha que une alturas en descenso,  la flecha del valle marca una V paralela a la V de las curvas de nivel y la flecha de la cresta marca una V contraria a la V de las curvas de nivel
+#es justo al revés
+~La localización de zonas protegidas y desprotegidas de bosque
+#esta información nunca vendrá de las curvas de nivel
+}
 
+::Las curvas de nivel II:: De las curvas de nivel se puede extraer la siguiente información. {
+=Cuando están muy juntas... -> ...la pendiente es muy fuerte
+=Cuando están muy separadas... -> ...la pendiente es muy suave
+=Si el camino corta las curvas de manera perpendicular y éstas están muy juntas... -> ...será un camino duro de ascender, pues toma la máxima pendiente
+=Si el camino corta las curvas de manera oblicua y éstas están muy juntas... -> ...será un camino zigzagueante que intenta suavizar la pendiente del camino a pesar de la fuerte pendiente del terreno
+}
 
-Cuando están muy juntas...
-...la pendiente es muy fuerte
-Cuando están muy separadas...
-...la pendiente es muy suave
-Si el camino corta las curvas de manera perpendicular y éstas están muy juntas...
-...será un camino duro de ascender, pues toma la máxima pendiente
-Si el camino corta las curvas de manera oblicua y éstas están muy juntas...
-...será un camino zigzagueante que intenta suavizar la pendiente del camino a pesar de la fuerte pendiente del terreno
-El mapa es una herramienta imprescindible que permite conocer el medio, pero puede tener sus errores o discrepancias con el mundo real
-El mapa es una herramienta prescindible  que permite conocer el medio, pero como se puede equivocar tampoco es tan necesario llevarlo ni saberlo leer
-siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
-El mapa es una herramienta imprescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
-a veces el mapa puede tener errores, el mundo real es lo único "real"
-El mapa es una herramienta prescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
-siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
-El mapa es necesario, puede evitar rescates e incidentes y conviene llevarlo y saber leerlo, para la cual hace falta cierta dedicación y aprendizaje, pero en algún momento habrá que empezar
-estas consideraciones son el fundamento de la prevención de accidentes
-El mapa es una buena herramienta, pero si no se sabe leer no sirve para nada, así que el colectivo de personas con poca experiencia no vale la pena mirar un mapa para diseñar actividades porque no lo van a entender. 
-evidentemente, si no se sabe leer un mapa se le puede sacar menos partido, pero la única manera de aprender a leer un mapa es poniéndose delante de uno, así que cuanto antes se empiece antes se aprenderá.
-La brújula es un complemento imprescindible del mapa si queremos orientarlo con garantías
-!
-La brújula sólo hay que llevarla si se quiere, pero sino no es  imprescindible, el mapa se orienta también con garantías por otros métodos
-la brújula es el único método que siempre te permitirá orientar el mapa, aun cuando haya niebla, sea de noche, o no reconozcas nada en el paisaje que asocies al mapa
-El norte del mapa y la brújula no coinciden, por lo que no vale la pena intentar hacer coincidir uno con el otro
-aunque es cierto que hay cierta diferencia entre uno y otro (declinación magnética) la orientación del mapa se puede hacer igualmente, teniendo en cuenta que esa diferencia no es mucho mayor que la que impone el propio "error humano" a la hora de ajustar el mapa
+::Leer el mapa:: Como federados debéis ser conscientes de ello e intentar recordar que... {
+=El mapa es una herramienta imprescindible que permite conocer el medio, pero puede tener sus errores o discrepancias con el mundo real
+~El mapa es una herramienta prescindible  que permite conocer el medio, pero como se puede equivocar tampoco es tan necesario llevarlo ni saberlo leer
+#siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+~El mapa es una herramienta imprescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+#a veces el mapa puede tener errores, el mundo real es lo único "real"
+~El mapa es una herramienta prescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+#siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+}
 
-El borde lateral del mapa es la línea este-oeste del mapa
-ese borde es la línea norte-sur del mapa
+::Seguridad en montaña:: Como federado de montaña debes concienciarnte de que... {
+=El mapa es necesario, puede evitar rescates e incidentes y conviene llevarlo y saber leerlo, para la cual hace falta cierta dedicación y aprendizaje, pero en algún momento habrá que empezar
+#estas consideraciones son el fundamento de la prevención de accidentes
+~El mapa es una buena herramienta, pero si no se sabe leer no sirve para nada, así que el colectivo de personas con poca experiencia no vale la pena mirar un mapa para diseñar actividades porque no lo van a entender. 
+#evidentemente, si no se sabe leer un mapa se le puede sacar menos partido, pero la única manera de aprender a leer un mapa es poniéndose delante de uno, así que cuanto antes se empiece antes se aprenderá.
+}
 
+::La brújula:: Como federados debemos saber que... {
+=La brújula es un complemento imprescindible del mapa si queremos orientarlo con garantías
+~La brújula sólo hay que llevarla si se quiere, pero sino no es  imprescindible, el mapa se orienta también con garantías por otros métodos
+#la brújula es el único método que siempre te permitirá orientar el mapa, aun cuando haya niebla, sea de noche, o no reconozcas nada en el paisaje que asocies al mapa
+~El norte del mapa y la brújula no coinciden, por lo que no vale la pena intentar hacer coincidir uno con el otro
+#aunque es cierto que hay cierta diferencia entre uno y otro (declinación magnética) la orientación del mapa se puede hacer igualmente, teniendo en cuenta que esa diferencia no es mucho mayor que la que impone el propio "error humano" a la hora de ajustar el mapa
+~El borde lateral del mapa es la línea este-oeste del mapa
+#ese borde es la línea norte-sur del mapa
+}
 
+::El gps senderista:: Como federado, ten en cuenta que un GPS... {
+El GPS permite conocer... -> ...la geoposición del usuario a través de los satélites
+El GPS puede ser de tipo senderista o... ->...una herramienta más de un smartphones
+El GPS no debe substituir al mapa y a la brújula... -> ...aunque sí los complementa, siendo una herramienta más de seguridad
+El GPS puede fallar por varias razones: -> ...la batería que se termina, la pantalla que se rompe, los satélites que se vuelven locos...
+}
 
-El GPS permite conocer...
-...la geoposición del usuario a través de los satélites
-El GPS puede ser de tipo senderista o...
-...una herramienta más de un smartphones
-El GPS no debe substituir al mapa y a la brújula...
-...aunque sí los complementa, siendo una herramienta más de seguridad
-El GPS puede fallar por varias razones:
-...la batería que se termina, la pantalla que se rompe, los satélites que se vuelven locos...
-El mapa siempre debe estar en tu mochila y de manera habitual deben sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
-El mapa no sirve de nada si no se sabe leer, por lo tanto si tienes poca experiencia es mejor no llevar mapa no vayas a utilizarlo mal
-El mapa siempre debe estar en tu mochila y de manera habitual debes sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
-A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
-Que si sois expertos no necesitáis ya llevar mapa y brújula, puesto que la experiencia suple lo que aportan estas herramientas
-A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
-El mapa siempre debe estar en la mochila, junto con la brújula, para ser consultados cada vez que haga falta
-¡este es nuestro principal consejo!
-El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
-el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca substituyéndolos
-La lectura de mapas, sobretodo en el tema de las coordenadas, Datums y proyecciones no es sencilla, pero sólo si queremos comparar el GPS con el mapa eso tendrá su importancia, en caso contrario es menos importante
-Como federadis debemos intentar diseñar nuestras actividades siempre sobre un mapa, de este modo el caminante que no está acostumbrando se va familiarizando con ellos y empieza a aprender
- 
+::Errores de los senderistas:: Como federado debes saber que... {
+=El mapa siempre debe estar en tu mochila y de manera habitual deben sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+~El mapa no sirve de nada si no se sabe leer, por lo tanto si tienes poca experiencia es mejor no llevar mapa no vayas a utilizarlo mal
+#El mapa siempre debe estar en tu mochila y de manera habitual debes sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+}
+
+::Errores de los montañeros:: En cualquier caso, como federado debes saber que... {
+=A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+~Que si sois expertos no necesitáis ya llevar mapa y brújula, puesto que la experiencia suple lo que aportan estas herramientas
+#A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+}
+
+::Educar en cartografía:: Como federados, sobre el mapa podéis asegurar que... {
+=El mapa siempre debe estar en la mochila, junto con la brújula, para ser consultados cada vez que haga falta
+#¡este es nuestro principal consejo!
+~El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
+#el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca substituyéndolos
+=La lectura de mapas, sobretodo en el tema de las coordenadas, Datums y proyecciones no es sencilla, pero sólo si queremos comparar el GPS con el mapa eso tendrá su importancia, en caso contrario es menos importante
+~Como federadis debemos intentar diseñar nuestras actividades siempre sobre un mapa, de este modo el caminante que no está acostumbrando se va familiarizando con ellos y empieza a aprender
+}

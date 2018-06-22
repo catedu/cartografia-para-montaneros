@@ -8,4 +8,3 @@ Es por ello que siempre insistimos en que **como federados debéis intentar real
 
 Un mapa vale poco dinero y dura bastante tiempo, es sin duda una inversión en seguridad y en cultura de montaña.
 
-#### Como federado debes saber que...

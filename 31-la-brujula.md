@@ -1,6 +1,8 @@
 # La brújula (31 de 36)
 
-![Brújula](img/Brújula.jpg)Sin duda, el complemento imprescindible para un mapa es la [**brújula**](http://es.wikipedia.org/wiki/Br%C3%BAjula "Brújula en Wikipedia").
+![Brújula](img/Brújula.jpg)
+
+Sin duda, el complemento imprescindible para un mapa es la [**brújula**](http://es.wikipedia.org/wiki/Br%C3%BAjula "Brújula en Wikipedia").
 
 Es cierto que un determinado número de **excursionistas o montañeros sí llevan mapa**. Si nos referimos a la **brújula ese número disminuirá considerablemente**...
 
@@ -18,5 +20,3 @@ El uso de **mapa + brújula** sobre el terreno permitirá, **mediante triangulac
 *   **Conocer el nombre de cualquier pico o cima** siempre que conozcamos nuestra posición sobre el mapa y el pico salga en el mismo
 
 Para aprender a utilizar la brújula con el mapa conviene dedicarle tiempo y "jugar" de vez en cuando a orientar el mapa y reconocer lugares o precisar nuestra ubicación a partir de lugares conocidos. Eso, sí, siempre en el medio, en el monte.
-
-#### Como federados debemos saber que...

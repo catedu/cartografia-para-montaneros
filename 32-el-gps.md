@@ -1,6 +1,8 @@
 # El GPS (32 de 36)
 
-![GPS senderista](img/GPS senderista.jpg)Un [**GPS**](http://es.wikipedia.org/wiki/Sistema_de_posicionamiento_global "GPS en Wikipedia") es un aparato que permite obtener las coordenadas de la geoposición del lugar donde se está en unos minutos y con una precisión de pocos metros.
+![GPS senderista](img/GPS senderista.jpg)
+
+Un [**GPS**](http://es.wikipedia.org/wiki/Sistema_de_posicionamiento_global "GPS en Wikipedia") es un aparato que permite obtener las coordenadas de la geoposición del lugar donde se está en unos minutos y con una precisión de pocos metros.
 
 Existen GPS de tipo senderista, que por su precio (entorno 150-500 euros) no están muy extendidos, pero también existen los GPS de los [**Smartphones**](http://es.wikipedia.org/wiki/Tel%C3%A9fono_inteligente "Smartphone en Wikipedia"), sensores que junto a aplicaciones determinadas nos permiten hacer trabajar un teléfono móvil como si fuera un GPS senderista.
 
@@ -14,4 +16,3 @@ Tampoco le vamos a quitar mérito: **en situaciones de niebla o de noche un GPS,
 
 Por último, si hacemos memoria de lo dicho en este curso y recordáis todo lo que en su momento hablamos del **tipo de proyecciones, coordenadas y Datums** ahora es el momento de decir que **sólo si queremos comparar el mapa en papel con el GPS será necesario prestar atención a ese tema**, pues si los dos sistemas no están hablando el mismo lenguaje (misma proyección, mismo datum) será como estar comparando un texto en inglés con un texto en ruso: no será posible...
 
-#### **Como federado, ten en cuenta que un GPS...**
