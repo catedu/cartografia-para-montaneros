@@ -38,3 +38,7 @@
 * [34. Lo principales errores de los montañeros     ](34-lo-principales-errores-de-los-montaneros.md)
 * [35. Informar para educar en cartografía     ](35-informar-para-educar-en-cartografia.md)
 * [36. FIn de la lección     ](36-fin-de-la-leccion.md)
+
+___
+
+* [Créditos](crditos-buenos.md)
