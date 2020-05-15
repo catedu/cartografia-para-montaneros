@@ -1,0 +1,252 @@
+::Elipsoide o geoide:: Como federados, nada de esto es muy importante pero os ayudará a comprender otros aspectos de la cartografía. La tierra es... {
+=Un elipsoide o geoide, con un eje más corto que el otro, en concreto el polar es 21 km más corto que el ecuatorial
+~Un elipsoide, pero no un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más corto que el ecuatorial
+#es un elipsoide, y también un geoide
+~Un elipsoide o un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más largo que el ecuatorial
+#el eje polar es 21 km más corto que el ecuatorial, no al revés
+~Un elipsoide, pero no un geoide, con un eje más corto que el otro, en concreto el polar es 21 km más largo que el ecuatorial
+#es un elipsoide y también un geoide, y el eje polar es 21 km más corto que el ecuatorial, no al revés
+}
+
+::El Ecuador:: El ecuador es... {
+=Un anillo que rodea el planeta por su parte más ancha
+~Un eje que atraviesa el planeta uniendo el polo norte y el polo sur
+#es un anillo que rodea el planeta por su parte más ancha
+}
+
+::Logintud y Latitud:: Así, los valores de latitud y longitud tienen valores del tipo... {
+=La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+~La latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+#La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste
+~La latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al meridiano de Greenwich en el primer caso y al ecuador en el segundo
+#los grados son correctos, pero los planos no,  estos valores son en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+~La latitud tiene valores de 0 a 90º norte o sur, y la longitud tiene valores que van de 0 a 180º este u oeste, en relación al meridiano de Greenwich en el primer caso y al ecuador en el segundo
+#tanto los grados como los planos son incorrectos, pero los planos no,  la latitud tiene valores de 0 a 180º norte o sur, y la longitud tiene valores que van de 0 a 90º este u oeste, en relación al ecuador en el primer caso y al meridiano de Greenwich en el segundo
+}
+
+::Coordenadas Geográficas:: Por lo tanto, cada punto sobre la tierra tiene... {
+=Un único par de coordenadas, valores de latitud y longitud acompañados de su correspondiente letra
+~Un único par de coordenadas, valores de latitud y longitud numéricos, la letra puede acompañar pero no es imprescindible para ubicar el punto correctamente
+#las letras, N y S para la latitud y E y W (u O) para la longitud son necesarias para saber de qué punto se trata
+}
+
+::Elipsoide de referencia:: El elipsoide de referencia utilizado en la cartografía de nuestro país es... {
+=El GRS 80
+~El de Clarck
+#Es el GRS 80
+~El WGS 84
+#Es el GRS 80
+~El de Hayford o Internacional
+#Es el GRS 80
+}
+
+::Proyecciones:: Empareja las siguientes frases según el tipo de proyección: {
+=La proyección cónica... -> ...pone el papel en forma de cono sobre la tierra, y es tangente a la misma en un anillo
+=La proyección cilíndrica... -> ...pone el papel en forma de cilindro alrededor de la tierra, y es tangente a la misma en un anillo
+=La proyección plana... -> ...pone el papel plano sobre un punto de la tierra. El papel es tangente a la tierra en un solo punto
+}
+
+::Proyección cilíndrica:: ¿Cuál es la proyección que es tangente a los meridianos? {
+=La proyección cilíndrica transversa
+#Así es, esta proyección tiene el eje del cilindro perpendicular al eje polar y la superficie del cilindro es tangente a un meridiano
+~La proyección cilíndrica normal
+#esta proyección es tangente al ecuador, no a un meridiano, la correcta es la proyección cilíndrica transversa
+}
+
+::Proyección UTM:: Señala qué afirmaciones son ciertas... (Varias opciones son posibles) {
+=La proyección UTM es una proyección cilíndrica
+=La proyección UTM es una proyección transversa
+#el eje del cilindro es perpendicular al eje polar
+=La proyección UTM es una proyección conforme
+#esta proyección mantiene el valor de los ángulos entre la realidad y la proyección, no así las superficies
+~La proyección UTM es una proyección plana
+#es una proyección cilíndrica
+}
+
+::Husos:: ¿Qué sabes de los Husos? Señala las respuestas correctas (varias son posibles) {
+=En la proyección UTM, la tierra se divide en 60 Husos, de 6 grados cada uno
+~Los Husos son una manera de mejorar la proyección cónica, que de otra manera se distorsiona mucho
+#Los Husos vienen a optimizar la proyección UTM, que es cilíndrica
+=La división en Husos se hace para optimizar el resultado de la proyección en cada uno de ellos y evitar distorsiones
+~Aragón está entre los Husos 1 y 2, siendo que el meridiano 0, el de Greenwich, pasa por aquí
+#Aragón está entre los Husos 30 y 31, pues los Husos se empiezan a contar en el antemeridiano de Greenwich, en el "otro lado" de la tierra.
+}
+
+::Coordenadas UTM:: A la hora de entender las coordenadas UTM debéis tener en cuenta que... {
+=Por encima de 84º N y por debajo de 80ºS... -> ...no se utiliza la proyección UTM pues se distorsiona mucho la realidad
+=Las coordenadas UTM son siempre... -> ...valores positivos
+=Un mismo par de coordenadas UTM, si no van vinculadas a un Huso... -> ...se repiten 60 veces sobre la superficie terrestre, una vez por cada Huso
+=Las coordenadas UTM se expresan en metros... -> ...mientras que las coordenadas geográficas se expresan en grados
+}
+
+::DATUM:: La idea que tienes sobre el datum es que... {
+=El Datum define... -> ...el elipsoide de referencia y su posición con respecto al geoide
+=El Datum sirve para... -> ...lograr un mejor ajuste entre el elipsoide y el geoide en una zona determinada
+=Los Datums más habituales en nuestra cartografía son... -> ...el WGS84, el ED50 y el ETRS89
+=La diferencia, en metros entre el ED50 y el ETRS89 es de... -> ...aproximadamente 200 m
+}
+
+::Comparativa de coordenadas:: Como federado, algo tienes que entender de coordenadas, Datums y Husos... (Varias opciones son posibles) {
+~Entre coordenadas geográficas y proyectadas UTM sólo cambian 200 m
+#cambia todo, el tipo de valor, las unidades, etc.
+~Entre Datum ETRS89 y ED50 no cambia nada, son equivalentes
+#hay una distancia de 200 m
+=Entre las coordenadas de un mismo punto en distintos Datums las unidades son las mismas: metros
+#Las coordenadas UTM siempre vienen en metros
+=Entre las coordenadas de un mismo punto en el Datum ED50 y el ETRS89 los valores se van en 200 m
+#y eso hay que tenerlo en cuenta si buscamos sobre el terreno algo concreto
+}
+
+::Mapas topográficos:: Los mapas topográficos muestran... {
+=Información del relieve, algo fundamental para los excursionistas
+#y por ello son la base de la cartografía excursionista
+~Información de carreteras y grandes ciudades, no llegando al detalle
+#muestran información del relieve, algo fundamental para los excursionistas
+}
+
+::Mapa de excursionista:: Por lo tanto, nosotros necesitamos... {
+=Un buen mapa excursionista, que proviene normalmente de los mapas topográficos escala 1:25.000 o 1:50.000
+~Un buen mapa excursionista, que proviene normalmente de los mapas topográficos escala 1:250.000 o 1:500.000
+#estas escalas no ofrecen detalle excursionista, son las 1:25.000 y 1:50.000 las que pueden ser de utilidad
+}
+
+::Necesidades del montañero:: Como montañero o excursionista necesitaré... {
+=Lo mejor es un mapa excursionista 1:25.000, que utiliza la base topográfica del IGN a esa misma escala y la complementa con información excursionista de los caminos, los picos y otros elementos que interesan a los que caminan
+~Lo mejor es un mapa topográfico 1:25.000, que utiliza la base excursionista del IGN a esa misma escala y la complementa con información topográfica
+#el IGN ofrece la base topográfica y los mapas excursionistas la completan y mejoran, no al revés
+}
+
+::Normativa INSPIRE:: Así, la normativa INSPIRE europea intenta... {
+=Hacer coherente y comprensible la información geográfica de los distintos países de la Unión Europea marcando unas normas que todos ellos deben cumplir
+~Elaborar unas fórmulas de traducción que permitan pasar de un tipo de coordenadas a otras para conseguir que mediante esas fórmulas la información geográfica entre distintos países se pueda compartir
+#es hacer coherente y comprensible la información geográfica de los distintos países de la Unión Europea marcando unas normas que todos ellos deben cumplir
+}
+
+::Elementos del mapa:: Marca las afirmaciones que sean verdaderas... (Varias opciones son posibles) {
+=Un mapa sin escala no permite saber la distancia real que hay entre dos puntos
+#la escala nos da información sobre la relación que existe entre el mapa y la realidad, si no hay escala no podemos saber la realidad
+~Una escala 1:50.000 ofrece más detalle excursionista que una escala 1:25.000
+#es justo ¡al revés! la escala 1:25.000 ofrece más detalle en general, pues cada cm del mapa representa 250 m de la realidad, mientras que en la 1:50.000 cada cm del mapa representa 500 m de la realidad
+=Una escala 1:25.000 ofrece más detalle excursionista que una escala 1:50.000
+#la escala 1:25.000 ofrece más detalle en general, pues cada cm del mapa representa 250 m de la realidad, mientras que en la 1:50.000 cada cm del mapa representa 500 m de la realidad
+~La escala numérica y la escala gráfica son dos escalas diferentes del mapa, indican distinta relación territorio-mapa
+#La escala numérica y la escala gráfica son dos maneras diferentes de representar lo mismo: la relación de medida entre el territorio y el mapa
+}
+
+::La leyenda de un mapa:: Por lo tanto, la leyenda de un mapa suele contener... {
+=Iconos sobre... -> ...elementos puntuales del mapa tipo fuentes, refugios, etc.
+=Líneas simbolizando... -> ...elementos lineales: caminos, ríos, carreteras, fronteras...
+=Información sobre las coordenadas del mapa... -> ...como es su sistema de proyección, Datum y Huso si procede
+=Escala en dos formatos... -> ...gráfica y numérica
+}
+
+::Coordenadas sobre el borde del mapa:: Sobre las coordenadas del borde del mapa afirmamos que... {
+=Si vienen expresadas en grados... -> ...se trata de coordenadas geográficas
+=Si vienen expresadas en metros... -> ...se trata de coordenadas proyectadas, UTM
+=El Datum no puede saberse en el borde del mapa... -> ...hay que buscarlo en la leyenda
+=La cuadrícula suele indicar cuadrados de... -> ...1 kilómetro de distancia por cada lado
+}
+
+::Altimetría:: Las curvas de nivel dibujan... {
+=La altitud del terreno: tercera dimensión del mundo real sobre el mapa papel de dos dimensiones
+~Elementos que se encuentran sobre el terreno de manera real
+#las curvas de nivel nunca las encontraremos en el mundo real, es una manera simplificada de representar la tercera dimensión del terreno, la altitud
+}
+
+::La planimetría:: Elige la opción más acertada {
+=La planimetría representa elementos lineales o superficiales, algunos de ellos visibles sobre el terreno y otros no...
+~La planimetría representa elementos lineales o superficiales, todos ellos visibles sobre el terreno...
+#en planimetría se incluyen líneas que difícilmente vamos a ver sobre el terreno: límites municipales, estatales, etc.
+~La planimetría representa elementos lineales, nunca superficiales
+#se pueden dar elementos lineales pero también de tipo superficial (un pueblo, una casa, un embalse...)
+}
+
+::La toponimia:: La toponimia da información sobre... {
+=El nombre de los lugares, intentando consensuar este nombre entre los distintos habitantes del lugar
+~El nombre de los lugares, siendo el IGN el único organismo que sabe cuál es el nombre correcto
+#la toponimia, el nombre de los lugares, no es una ciencia exacta, a veces un mismo lugar es llamado de distinta manera por distintos habitantes de la zona
+}
+
+::Los iconos en el mapa:: Así, mediante iconos se suelen representar... {
+=Muchos puntos y servicios... -> ...de especial interés para los excursionistas
+=Refugios de montaña indicando... -> ...si están o no guardados
+=Las fuentes, puentes en caminos, cadenas en pistas... -> ...pues su rápida visualización ayuda a planificar correctamente el recorrido
+}
+
+::El fondo del mapa:: El fondo del mapa... {
+=Puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+~Representa invariablemente la altimetría, es un acuerdo mundial sobre cómo se dibuja el fondo del mapa
+#puede representar varios aspectos del terreno: la altitud, la vegetación o tipo de terreno, el sombreado...
+}
+
+::Las curvas de nivel:: De la lectura de las curvas de nivel se puede extraer... {
+=La localización de valles y divisorias
+#las zonas donde las curvas hacen una U o una V son los valles o las divisorias
+=En una flecha que une alturas en descenso,  la flecha del valle marca una V contraria a la V de las curvas de nivel y la flecha de la cresta marca una V paralela a la V de las curvas de nivel
+~En una flecha que une alturas en descenso,  la flecha del valle marca una V paralela a la V de las curvas de nivel y la flecha de la cresta marca una V contraria a la V de las curvas de nivel
+#es justo al revés
+~La localización de zonas protegidas y desprotegidas de bosque
+#esta información nunca vendrá de las curvas de nivel
+}
+
+::Las curvas de nivel II:: De las curvas de nivel se puede extraer la siguiente información. {
+=Cuando están muy juntas... -> ...la pendiente es muy fuerte
+=Cuando están muy separadas... -> ...la pendiente es muy suave
+=Si el camino corta las curvas de manera perpendicular y éstas están muy juntas... -> ...será un camino duro de ascender, pues toma la máxima pendiente
+=Si el camino corta las curvas de manera oblicua y éstas están muy juntas... -> ...será un camino zigzagueante que intenta suavizar la pendiente del camino a pesar de la fuerte pendiente del terreno
+}
+
+::Leer el mapa:: Como federados debéis ser conscientes de ello e intentar recordar que... {
+=El mapa es una herramienta imprescindible que permite conocer el medio, pero puede tener sus errores o discrepancias con el mundo real
+~El mapa es una herramienta prescindible  que permite conocer el medio, pero como se puede equivocar tampoco es tan necesario llevarlo ni saberlo leer
+#siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+~El mapa es una herramienta imprescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+#a veces el mapa puede tener errores, el mundo real es lo único "real"
+~El mapa es una herramienta prescindible para el excursionista y montañero que permite conocer el medio, y siempre representa fielmente y sin errores el mundo real
+#siempre es importante y necesario llevar mapa y saber leerlo correctamente, aún cuando a veces se equivocan
+}
+
+::Seguridad en montaña:: Como federado de montaña debes concienciarnte de que... {
+=El mapa es necesario, puede evitar rescates e incidentes y conviene llevarlo y saber leerlo, para la cual hace falta cierta dedicación y aprendizaje, pero en algún momento habrá que empezar
+#estas consideraciones son el fundamento de la prevención de accidentes
+~El mapa es una buena herramienta, pero si no se sabe leer no sirve para nada, así que el colectivo de personas con poca experiencia no vale la pena mirar un mapa para diseñar actividades porque no lo van a entender. 
+#evidentemente, si no se sabe leer un mapa se le puede sacar menos partido, pero la única manera de aprender a leer un mapa es poniéndose delante de uno, así que cuanto antes se empiece antes se aprenderá.
+}
+
+::La brújula:: Como federados debemos saber que... {
+=La brújula es un complemento imprescindible del mapa si queremos orientarlo con garantías
+~La brújula sólo hay que llevarla si se quiere, pero sino no es  imprescindible, el mapa se orienta también con garantías por otros métodos
+#la brújula es el único método que siempre te permitirá orientar el mapa, aun cuando haya niebla, sea de noche, o no reconozcas nada en el paisaje que asocies al mapa
+~El norte del mapa y la brújula no coinciden, por lo que no vale la pena intentar hacer coincidir uno con el otro
+#aunque es cierto que hay cierta diferencia entre uno y otro (declinación magnética) la orientación del mapa se puede hacer igualmente, teniendo en cuenta que esa diferencia no es mucho mayor que la que impone el propio "error humano" a la hora de ajustar el mapa
+~El borde lateral del mapa es la línea este-oeste del mapa
+#ese borde es la línea norte-sur del mapa
+}
+
+::El gps senderista:: Como federado, ten en cuenta que un GPS... {
+El GPS permite conocer... -> ...la geoposición del usuario a través de los satélites
+El GPS puede ser de tipo senderista o... ->...una herramienta más de un smartphones
+El GPS no debe substituir al mapa y a la brújula... -> ...aunque sí los complementa, siendo una herramienta más de seguridad
+El GPS puede fallar por varias razones: -> ...la batería que se termina, la pantalla que se rompe, los satélites que se vuelven locos...
+}
+
+::Errores de los senderistas:: Como federado debes saber que... {
+=El mapa siempre debe estar en tu mochila y de manera habitual deben sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+~El mapa no sirve de nada si no se sabe leer, por lo tanto si tienes poca experiencia es mejor no llevar mapa no vayas a utilizarlo mal
+#El mapa siempre debe estar en tu mochila y de manera habitual debes sacarlo y consultarlo, pues te ayudará a tomar decisiones acertadas y prudentes
+}
+
+::Errores de los montañeros:: En cualquier caso, como federado debes saber que... {
+=A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+~Que si sois expertos no necesitáis ya llevar mapa y brújula, puesto que la experiencia suple lo que aportan estas herramientas
+#A pesar de la experiencia, se cometen errores a veces al trabajar sobre el mapa por exceso de confianza y orientarlo de manera aproximada, por lo que debéis prestar atención y por supuesto llevar mapa y brújula
+}
+
+::Educar en cartografía:: Como federados, sobre el mapa podéis asegurar que... {
+=El mapa siempre debe estar en la mochila, junto con la brújula, para ser consultados cada vez que haga falta
+#¡este es nuestro principal consejo!
+~El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
+#el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca substituyéndolos
+=La lectura de mapas, sobretodo en el tema de las coordenadas, Datums y proyecciones no es sencilla, pero sólo si queremos comparar el GPS con el mapa eso tendrá su importancia, en caso contrario es menos importante
+~Como federadis debemos intentar diseñar nuestras actividades siempre sobre un mapa, de este modo el caminante que no está acostumbrando se va familiarizando con ellos y empieza a aprender
+}
